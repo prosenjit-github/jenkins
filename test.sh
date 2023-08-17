@@ -10,5 +10,5 @@ then
 echo $name
 echo $age
 else
-echo "Data is private"
+echo "Data is private and not allowed to view"
 fi
