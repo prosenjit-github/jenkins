@@ -1,2 +1,2 @@
 This is from develop branch.
-This is second line for conflict testing edited for conflict test.
+This is second line for conflict testing edited.
