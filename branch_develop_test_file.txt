@@ -1,4 +1,10 @@
 This is from develop branch.
+<<<<<<< HEAD
 This is second line for conflict testing edited.
 
 This is line two from main branch.
+=======
+This is second line for conflict testing edited for conflict test.
+
+
+>>>>>>> develop
