@@ -3,5 +3,3 @@ This is second line for conflict testing edited for conflict test.
 
 
 This is line 2 from develop.
-
-This is line 3 from develop.
